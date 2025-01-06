@@ -19,4 +19,4 @@ Needucation es una plataforma educativa diseñada para proporcionar recursos y h
 
 ## Contacto
 
-Para más información, visita nuestro [sitio web](https://www.needucation.com) o contáctanos a través de [email@example.com](mailto:email@example.com). uwu uwu uwu
+Para más información, visita nuestro [sitio web](https://www.needucation.com) o contáctanos a través de [email@example.com](mailto:email@example.com). 
